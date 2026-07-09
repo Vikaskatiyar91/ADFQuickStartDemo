@@ -1,0 +1,15 @@
+{
+	"name": "ADFQuickstartDemo11",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b870f669-6e47-46c0-8ca4-e76c987d3c53",
+		"tenantId": "471ee064-6473-4de7-af71-10545c3aebbe"
+	}
+}
